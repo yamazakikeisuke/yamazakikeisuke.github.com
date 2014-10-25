@@ -10,7 +10,7 @@ Taxes.taxRate = 0.04; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'tokushima_26_tousho';
+OpenSpending.identifier = 'tokushima_2014_tousho';
 OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
